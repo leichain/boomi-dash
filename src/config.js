@@ -10,7 +10,7 @@ export const CONFIG = {
     "title": "Boomi Dashboard",
 
     // 4. (Optional) Display the floor price chart
-    "timeseries_chart": true,
+    "timeseries_chart": false,
 
     // 5. (Optional) Set your banner image
     "banner_picture": "https://lh3.googleusercontent.com/bPeLPTAvISHbkLLE6HxCvq9qfyxN7md6gPH5xQpv7filGYg9w6HGxMI3chAGnwrvTIu1f7hGQcN8gjA2N8aOC2Wrkl9GGPtncTNG=w600",
