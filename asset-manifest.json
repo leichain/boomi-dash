@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.0922b6e7.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.15a33664.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.15a33664.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.784253ff.chunk.js": "/nft-dashboard-template/static/js/2.784253ff.chunk.js",
-    "static/js/2.784253ff.chunk.js.map": "/nft-dashboard-template/static/js/2.784253ff.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.0922b6e7.chunk.css.map": "/nft-dashboard-template/static/css/main.0922b6e7.chunk.css.map",
-    "static/js/2.784253ff.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.784253ff.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/nft-dashboard-template/static/media/Covalent-Background_5.cc7bc02b.jpg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/boomi-dash/static/css/main.d47528b3.chunk.css",
+    "main.js": "/boomi-dash/static/js/main.f3e0ec71.chunk.js",
+    "main.js.map": "/boomi-dash/static/js/main.f3e0ec71.chunk.js.map",
+    "runtime-main.js": "/boomi-dash/static/js/runtime-main.d423a12d.js",
+    "runtime-main.js.map": "/boomi-dash/static/js/runtime-main.d423a12d.js.map",
+    "static/js/2.cfb4fb41.chunk.js": "/boomi-dash/static/js/2.cfb4fb41.chunk.js",
+    "static/js/2.cfb4fb41.chunk.js.map": "/boomi-dash/static/js/2.cfb4fb41.chunk.js.map",
+    "index.html": "/boomi-dash/index.html",
+    "static/css/main.d47528b3.chunk.css.map": "/boomi-dash/static/css/main.d47528b3.chunk.css.map",
+    "static/js/2.cfb4fb41.chunk.js.LICENSE.txt": "/boomi-dash/static/js/2.cfb4fb41.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/boomi-dash/static/media/Back.8af6b2fe.svg",
+    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/boomi-dash/static/media/Covalent-Background_5.cc7bc02b.jpg",
+    "static/media/App.css": "/boomi-dash/static/media/alert.6e5425f9.svg",
+    "static/media/banner.e7e48588.png": "/boomi-dash/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/boomi-dash/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/boomi-dash/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.784253ff.chunk.js",
-    "static/css/main.0922b6e7.chunk.css",
-    "static/js/main.15a33664.chunk.js"
+    "static/js/runtime-main.d423a12d.js",
+    "static/js/2.cfb4fb41.chunk.js",
+    "static/css/main.d47528b3.chunk.css",
+    "static/js/main.f3e0ec71.chunk.js"
   ]
 }
