@@ -1,19 +1,19 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
+    "collection_address": "0xF3402D09BfF30252872ec60A00305E3fD082A701",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "137",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "My NFT Collection",
+    "title": "Boomi Dashboard",
 
     // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://www.superflexfitness.com/wp-content/uploads/2017/03/3D-banner-background.jpg",
+    "banner_picture": "https://lh3.googleusercontent.com/bPeLPTAvISHbkLLE6HxCvq9qfyxN7md6gPH5xQpv7filGYg9w6HGxMI3chAGnwrvTIu1f7hGQcN8gjA2N8aOC2Wrkl9GGPtncTNG=w600",
   },
 
   // These options just for your reference
