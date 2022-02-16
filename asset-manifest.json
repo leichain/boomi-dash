@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/boomi-dash/static/css/main.d47528b3.chunk.css",
-    "main.js": "/boomi-dash/static/js/main.dbe704d5.chunk.js",
-    "main.js.map": "/boomi-dash/static/js/main.dbe704d5.chunk.js.map",
+    "main.js": "/boomi-dash/static/js/main.c6edb3ef.chunk.js",
+    "main.js.map": "/boomi-dash/static/js/main.c6edb3ef.chunk.js.map",
     "runtime-main.js": "/boomi-dash/static/js/runtime-main.d423a12d.js",
     "runtime-main.js.map": "/boomi-dash/static/js/runtime-main.d423a12d.js.map",
     "static/js/2.cfb4fb41.chunk.js": "/boomi-dash/static/js/2.cfb4fb41.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d423a12d.js",
     "static/js/2.cfb4fb41.chunk.js",
     "static/css/main.d47528b3.chunk.css",
-    "static/js/main.dbe704d5.chunk.js"
+    "static/js/main.c6edb3ef.chunk.js"
   ]
 }
